@@ -1,6 +1,0 @@
-{{#user}}
-Name: Saad Shaikh
-Skills: Aws, Git, GitHub, Jenkins, Maven, Terraform, Docker, Kubernetes, Ansible, Nagios 
-Email: saadmd29@gmail.com
-{{/user}}
-
